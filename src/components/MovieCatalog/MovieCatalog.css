@@ -1,0 +1,19 @@
+.movie-catalog {
+    display:flex !important;
+    justify-content: center !important;
+    margin-top: 25px;
+    flex-wrap: wrap;
+    
+}
+
+.ant-col-24{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* .ant-card-cover img{
+    height: 40px !important;
+} */
+
+.ant-card-meta-title{
+    text-align: center !important;
+}

@@ -1,0 +1,29 @@
+.modal-video{
+    width: 100% !important;
+    height: 100%;
+    padding:0% !important;
+}
+
+.modal-video .ant-modal-content{
+    height:100%;
+    background-color: black !important;
+}
+
+.modal-video .ant-modal-content .ant-modal-close{
+    color: white;
+}
+.ant-modal-close span{
+    font-size: 40px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.ant-modal-content .ant-modal-body{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ant-modal-content .ant-modal-body > div{
+    width: 90%;
+    height: 90%;
+}
